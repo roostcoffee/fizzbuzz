@@ -9,7 +9,7 @@ class Fizzbuzz
     elsif number.to_s.include? '7'
       'GitHub'
     else
-      number
+        number
     end
   end
 end
